@@ -101,3 +101,18 @@ The following tests were performed:
 ### 10. Conclusion
 
 The Employee Management System demonstrates the practical use of Java collections, object-oriented programming, file handling, serialization, and exception handling. The project provides a simple and effective way to manage employee records while maintaining data between application sessions.
+
+
+## 11. Project Screenshots
+
+### Main Menu
+![Main Menu](main-menu.png)
+
+### Employee Records
+![Employee Records](employee-records.png)
+
+### Salary Report
+![Salary Report](salary-report.png)
+
+### Update Validation
+![Update Validation](update-validation.png)
